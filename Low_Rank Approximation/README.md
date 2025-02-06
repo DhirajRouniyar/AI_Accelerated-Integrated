@@ -1,7 +1,7 @@
 # Output
 
 ![Alt text](https://github.com/DhirajRouniyar/AI_Accelerated-Integrated/blob/main/Low_Rank%20Approximation/Images/Output.png)
-![Alt text](
+![Alt text](https://github.com/DhirajRouniyar/AI_Accelerated-Integrated/blob/main/Low_Rank%20Approximation/Images/Output_1.png)
 
 # 1. What is a Low-Rank Neural Network?
 A low-rank neural network is a compressed version of a regular neural network. Instead of using large weight matrices, it breaks them into smaller matrices that approximate the same function but with fewer parameters. This reduces the model size and speeds up training and inference.
