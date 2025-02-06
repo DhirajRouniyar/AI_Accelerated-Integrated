@@ -1,6 +1,6 @@
 # Output
 
-![Alt text](
+![Alt text](https://github.com/DhirajRouniyar/AI_Accelerated-Integrated/blob/main/Low_Rank%20Approximation/Images/Output.png)
 ![Alt text](
 
 # 1. What is a Low-Rank Neural Network?
