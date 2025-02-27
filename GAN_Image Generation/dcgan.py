@@ -1,4 +1,3 @@
-
 import os
 
 import torch
@@ -8,7 +7,7 @@ from torchvision import datasets, transforms
 from torchvision.utils import make_grid, save_image
 from tensorboardX import SummaryWriter
 from tqdm import trange
-from pytorch_gan_metrics import get_inception_score_and_fid
+from pytorch_image_generation_metrics import get_inception_score_and_fid
 
 import source.models.dcgan as models
 import source.losses as losses
